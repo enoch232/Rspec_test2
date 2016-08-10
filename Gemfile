@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+gem 'pry'
 gem 'rspec', '~> 2.13'
 gem 'rspec-rails', '~> 2.13'
 gem 'factory_girl', '~> 3.3.0'
